@@ -1,0 +1,273 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-05-22T10:18:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271753998",
+        "name": "Svebølle",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Se",
+        "wikidata": "Q12337866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2920852,
+          55.6522903
+        ]
+      },
+      "id": "node/271753998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303878638",
+        "name": "Kalundborg",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Kb",
+        "wikidata": "Q3048656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0898869,
+          55.6777772
+        ]
+      },
+      "id": "node/303878638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988319359",
+        "name": "Tølløse",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Tø",
+        "wikidata": "Q2393517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7732185,
+          55.6119686
+        ]
+      },
+      "id": "node/988319359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988781386",
+        "name": "Lejre",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Lj",
+        "wikidata": "Q12324210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9702792,
+          55.6043364
+        ]
+      },
+      "id": "node/988781386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988781571",
+        "name": "Vipperød",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Pe",
+        "wikidata": "Q12341149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7388715,
+          55.6670078
+        ]
+      },
+      "id": "node/988781571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988782048",
+        "name": "Regstrup",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Rt",
+        "wikidata": "Q12333144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.612578,
+          55.6774969
+        ]
+      },
+      "id": "node/988782048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988782107",
+        "name": "Mørkøv",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Mø",
+        "wikidata": "Q12328143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5021766,
+          55.654562
+        ]
+      },
+      "id": "node/988782107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988782137",
+        "name": "Knabstrup",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "Ks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5538862,
+          55.6648959
+        ]
+      },
+      "id": "node/988782137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988803072",
+        "name": "Jyderup",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Jy",
+        "wikidata": "Q12320633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3982482,
+          55.6602985
+        ]
+      },
+      "id": "node/988803072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2225580063",
+        "name": "Holbæk",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Hk",
+        "wikidata": "Q1965551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7080223,
+          55.7155286
+        ]
+      },
+      "id": "node/2225580063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382195029",
+        "name": "Roskilde Festivalplads",
+        "operator": "Roskilde Festival",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0700543,
+          55.6221133
+        ]
+      },
+      "id": "node/2382195029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177059332",
+        "name": "Roskilde",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Ro",
+        "wheelchair": "yes",
+        "wikidata": "Q2604259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0877782,
+          55.6385464
+        ]
+      },
+      "id": "node/4177059332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5672901179",
+        "name": "Hvalsø",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "Hv",
+        "wikidata": "Q12317518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8592384,
+          55.5953424
+        ]
+      },
+      "id": "node/5672901179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6127765353",
+        "name": "Kalundborg Øst",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "Kbø",
+        "start_date": "2018-12-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1241213,
+          55.6760433
+        ]
+      },
+      "id": "node/6127765353"
+    }
+  ]
+}
